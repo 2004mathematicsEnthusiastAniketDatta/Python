@@ -34,3 +34,24 @@ C. Predict future (Population , Sale Volume).
 2. Data Preparation : Cleaning Missing Data Formats
 3. Visualization and exploration: Dashboard ,comparisons
 4. Predictions Experiments: AB testing forecast
+
+
+## Where do we require Data Science
+
+ <h3><em>Machine Learning</em></h3>
+
+1. Fraud Detection: Gather Data , Amount, date,address,Location, Label :  valid or fraud.
+2. This is training Data : Probability of new transaction to be fraud.   
+2. Problem Statement: Get this clear.
+3. Example data: Data to train with labels.
+4. Cars to predict human: convert image to matrix and process data.
+5. Apple watch: HEART RATE , MOTION SENSORS,ETC......
+6. Deep Learning: Multiple Layers of algorithm called as neurons works together to draw conclusion.
+7. High Amount of Data than Machine Learning
+   <ol type="i">
+   <li>Image Proccessing/Classification</li>
+   <li>Language learning/Context understanding</li>
+</ol> 
+
+
+
