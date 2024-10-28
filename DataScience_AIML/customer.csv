@@ -1,0 +1,11 @@
+﻿S.No.,customerid,Age,Education,Years,Address,Income
+1,101,25,Bachelors,2,Address1,30000
+2,102,34,Masters,3,Address2,45000
+3,103,29,Ph.D,5,Address3,50000
+4,104,45,Bachelors,10,Address4,75000
+5,105,40,Masters,15,Address5,80000
+6,106,26,Masters,41,Address6,150000
+7,107,28,Ph.D,8,Address7,60000
+8,108,30,Bachelors,12,Address8,90000
+9,109,52,Masters,18,Address9,95000
+10,110,45,Bachelors,24,Address10,125000
